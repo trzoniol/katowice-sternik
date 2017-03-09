@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 plik numer dwa.
+=======
+plik numer dwa
+>>>>>>> cb5cfa5fd457eb5ffd311ef18264ee25fdf5d39c
